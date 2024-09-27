@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atirkson.github.io/sitemap.atirkson.gz
+Sitemap: https://atirkson.github.io/app/sitemap.atirkson.gz
+Sitemap: https://atirkson.github.io/assets/sitemap.atirkson.gz
+Sitemap: https://atirkson.github.io/css/sitemap.atirkson.gz
+Sitemap: https://atirkson.github.io/data/sitemap.atirkson.gz
+Sitemap: https://atirkson.github.io/includes/sitemap.atirkson.gz
+Sitemap: https://atirkson.github.io/item/sitemap.atirkson.gz
+Sitemap: https://atirkson.github.io/src/sitemap.atirkson.gz
